@@ -1,1 +1,1 @@
-# react_notes_conditional_rendering
+Note on conditional rendering using ternary expression.
